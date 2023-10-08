@@ -1,6 +1,6 @@
 {
-  "homepage": "http://lovepunj.github.io/nike",
-  "name": "nike",
+  "homepage": "https://lovepunj.github.io/nike",
+  "name": "nike_landing_assets",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,6 +11,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+
   },
   "dependencies": {
     "react": "^18.2.0",
